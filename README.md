@@ -12,4 +12,4 @@ Refer to the comments in main.cpp to see how it is used. Essentially, you instan
 
 ## License
 
-The code is license under GPLv3+.
+The code is licensed under GPLv3+.
