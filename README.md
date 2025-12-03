@@ -4,7 +4,7 @@ This is an implementation of AOA-NM from the work of Betul, et al. Source: https
 
 ## How to run
 
-Simply use the provided makefile to build the program. There are no dependencies, all that is needed is a C++ compiler that can compile the C++14 standard.
+Simply use the provided makefile to build the program. There are no dependencies, all that is needed is a C++ compiler that can compile the C++14 standard. You can then run the built executable "out" in the terminal and see the resulting CSV files after solving for the Beale function example. If you wish to optimize another function, look at main.cpp for instructions on how to do so.
 
 ## How to use
 
